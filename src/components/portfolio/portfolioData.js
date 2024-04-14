@@ -61,7 +61,7 @@ const PortfolioData = [
     id: 4,
     type: "lorem ipsum",
     image: Image4,
-    tag: ["lorem", "lorem"],
+    tag: ["graphic design", "logo"],
     delayAnimation: "0",
     modalDetails: [
       {
@@ -77,7 +77,7 @@ const PortfolioData = [
     id: 5,
     type: "lorem ipsum",
     image: Image5,
-    tag: ["lorem"],
+    tag: ["graphic design"],
     delayAnimation: "100",
     modalDetails: [
       {
@@ -93,7 +93,7 @@ const PortfolioData = [
     id: 6,
     type: "lorem ipsum",
     image: Image6,
-    tag: ["lorem", "lorem"],
+    tag: ["mockup", "logo"],
     delayAnimation: "200",
     modalDetails: [
       {
@@ -109,7 +109,7 @@ const PortfolioData = [
     id: 7,
     type: "lorem ipsum",
     image: Image7,
-    tag: ["lorem"],
+    tag: ["logo"],
     delayAnimation: "0",
     modalDetails: [
       {
@@ -125,7 +125,7 @@ const PortfolioData = [
     id: 8,
     type: "lorem ipsum",
     image: Image8,
-    tag: ["lorem"],
+    tag: ["video"],
     delayAnimation: "100",
     modalDetails: [
       {
@@ -141,7 +141,7 @@ const PortfolioData = [
     id: 9,
     type: "lorem ipsum",
     image: Image9,
-    tag: ["lorem", "lorem"],
+    tag: ["logo", "lorem"],
     delayAnimation: "200",
     modalDetails: [
       {
